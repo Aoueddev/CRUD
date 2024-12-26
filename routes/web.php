@@ -13,10 +13,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/aoued', function () {
-    return 'aoued';
+Route::get("/", function(){
+  return redirect()-> route("produtos.index");
 });
-
-
 Route::resource('produtos', ProdutoController::class);
 
