@@ -1,5 +1,4 @@
-
-  <form action="{{ route('produtos.store') }}" method="POST">
+<form action="{{ route('produtos.store') }}" method="POST">
         @csrf
        <div class="form-group">
             <label for="nome">Nome:</label>
