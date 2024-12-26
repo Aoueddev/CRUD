@@ -7,7 +7,6 @@ O Sistema de Gerenciamento de Produtos é uma aplicação web desenvolvida integ
 🔍 Consulta de Produtos: Visualize os produtos cadastrados com filtros avançados e paginação.
 📝 Atualização de Produtos: Edite os dados de produtos de forma rápida e eficiente.
 🗑️ Remoção de Produtos: Exclua produtos desnecessários com segurança.
-📊 Relatórios: Gere relatórios úteis para análise e tomada de decisões.
 🛠️ Tecnologias
 Este sistema é construído 100% com Laravel, aproveitando os seguintes recursos:
 
